@@ -1,3 +1,4 @@
+![Screenshot](https://github.com/Deekshap16/Instaclone/blob/4112d4ec059ef0a057c705648c5a3f485c73aa18/Screenshot%202026-02-18%20194158.png)
 # 📸 Instaclone — MERN Instagram-like App
 
 A full-stack Instagram-inspired social media application built with the MERN stack.
